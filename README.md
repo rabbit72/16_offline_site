@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+This template is ready to be developed locally. Internet is not required.
 
 # Project Goals
 
